@@ -1,4 +1,5 @@
 # TiDB 中文技术文档
+[![Analytics](http://107.150.119.14/UA-99991864-1/readme)](https://www.pingcap.com)
 
 ## 目录
 
